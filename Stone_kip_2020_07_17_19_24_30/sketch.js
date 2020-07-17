@@ -110,6 +110,7 @@ function getPosition(startPos, t) {
 function setup() {
   createCanvas(window.innerWidth, window.innerHeight);
   frameRate(fr);
+  console.log("Ritwik is a complete non and will never get a rank")
 }
 
 function drawAShellPiece(pieceInfo) {
