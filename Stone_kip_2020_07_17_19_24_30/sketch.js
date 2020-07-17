@@ -108,7 +108,7 @@ function getPosition(startPos, t) {
 }
 
 function setup() {
-  createCanvas(750, 750);
+  createCanvas(window.innerWidth, window.innerHeight);
   frameRate(fr);
 }
 
