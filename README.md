@@ -1,2 +1,2 @@
 # AKSHAY-IS-A-VIP
-non's are not allowed
+non's are discouraged not be here
